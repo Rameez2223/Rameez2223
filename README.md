@@ -1,68 +1,47 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">👋 Hi, I'm Muhammad Rameez!</h1>
+<h1 align="center">👋 Hi, I'm **Muhammad Rameez**</h1>
 
 <p align="center">
-  🚀 Flutter Developer | 🎨 UI/UX Enthusiast | 🎓 CS Student | 🎥 Content Creator
-</p>
-
-<p align="center">
-  I'm passionate about crafting beautiful apps with Flutter, building responsive websites, and sharing my journey in tech through content.
+  A **Flutter Developer**, **UI/UX Enthusiast**, and **CS Student** from Pakistan. I build sleek, functional apps and love sharing what I learn along the way.
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🎓 CS Student at **The Islamia University of Bahawalpur, Pakistan**
-- 💡 I love creating beautiful UIs and functional apps using **Flutter**
-- 🌐 I design responsive websites using **HTML, CSS, JavaScript**
-- 🔥 Currently learning **Firebase** integration with Flutter
-- 📹 Sharing knowledge on **YouTube**, including tech tips and tutorials
-- ✍️ Blogging about AI, automation, and app development at [The AI Revolution](https://ai-revolutionhub.blogspot.com/)
-- 🌱 I believe in **#learninginpublic** and growing through community
+Currently studying CS at **The Islamia University of Bahawalpur**, I’m passionate about crafting beautiful digital experiences. You'll often find me exploring Flutter + Firebase integrations, designing intuitive UIs, or creating tech content on my blog and YouTube channel.
 
 ---
 
-## 💻 Tech Stack
+##  What I Do
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
+- **Mobile & Web Development**: Flutter, Dart, Firebase, HTML, CSS, JavaScript  
+- **Programming & Databases**: C++, Java, MySQL  
+- **Tools**: MS Office, content creation tools  
+
+I’m currently diving deeper into backend workflows with MySQL and adding AI-powered features to my mobile projects.
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&show_icons=true&count_private=true&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rameez2223&theme=radical&show_icons=true&count_private=true" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xsol05&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rameez2223&theme=radical" alt="Streak stats" />
 </p>
 
 ---
 
-## 🔗 Let's Connect
+##  Connect with Me
 
 <p align="center">
-  <a href="muhammadrameez00986@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://ai-revolutionhub.blogspot.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blogger-F57D00?style=for-the-badge&logo=blogger&logoColor=white" />
-  </a>
- 
+  <a href="mailto:muhammadrameez00986@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://ai-revolutionhub.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blogger-F57D00?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
 </p>
 
 ---
 
-<p align="center">📌 Always building, always learning. Thanks for stopping by!</p>
+> Building, learning, and sharing—small steps lead to big journeys.
