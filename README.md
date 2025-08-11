@@ -1,14 +1,9 @@
 <!-- Professional GitHub Profile README -->
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://i.imgur.com/w1eMZ9u.png" alt="Developer Banner" width="100%" />
-</p>
-
 <h1 align="center">👋 Hey there, I’m Muhammad Rameez!</h1>
 
 <p align="center">
-  🚀 Flutter Developer | 🎨 UI/UX Enthusiast | 💡 Lifelong Learner | 🎥 Content Creator
+  🚀 Flutter Developer | 🌐 Web Frontend Developer & UI/UX Designer | 💡 Lifelong Learner | 🎥 Content Creator
 </p>
 
 <p align="center">
@@ -39,6 +34,7 @@ When I’m not coding, I create content on YouTube and write about AI, automatio
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
 ### Web Development
@@ -59,7 +55,7 @@ When I’m not coding, I create content on YouTube and write about AI, automatio
 
 ## 🎯 Current Focus
 - Building cross-platform apps with Flutter + Firebase  
-- Strengthening backend skills with MySQL  
+- Strengthening backend skills with Firebase  
 - Exploring AI-powered features for mobile apps  
 
 ---
