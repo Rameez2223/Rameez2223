@@ -62,7 +62,7 @@ When I’m not coding, I create content on YouTube and write about AI, automatio
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rameez2223&theme=radical&show_icons=true&count_private=true&hide_border=false" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rameez2223&theme=radical&hide_border=false&v=1" />
+  <img src="https://streak-stats.demolab.com?user=Rameez2223&theme=radical&hide_border=false" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameez2223&layout=compact&theme=radical&hide_border=false" />
 </p>
