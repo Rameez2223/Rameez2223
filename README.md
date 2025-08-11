@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey there, I’m Muhammad Rameez!</h1>
 
 <p align="center">
-  🚀 Flutter Developer | 🌐 Web Frontend Developer & UI/UX Designer | 💡 Lifelong Learner | 🎥 Content Creator
+  🚀 Flutter Developer | 🌐 Frontend Developer (Web) & UI/UX Designer | 💡 Lifelong Learner | 🎥Tech Content Creator
 </p>
 
 <p align="center">
@@ -14,13 +14,20 @@
 
 ## 🧑‍💻 About Me
 
-I’m a Computer Science student at **The Islamia University of Bahawalpur, Pakistan** passionate about turning ideas into sleek, high-performing digital experiences.  
-Most days, you’ll find me designing smooth UIs, developing Flutter apps, or experimenting with Firebase integrations.  
-When I’m not coding, I create content on YouTube and write about AI, automation, and app development — because I believe knowledge grows when it’s shared.  
+I’m a Computer Science student at The Islamia University of Bahawalpur, Pakistan, passionate about creating sleek, high-performance digital experiences.
+I specialize in designing intuitive UIs, developing cross-platform Flutter apps, and integrating robust backend solutions with Firebase.
+Outside of coding, I share knowledge through YouTube content and articles on AI, automation, and app development — because I believe knowledge grows when it’s shared.
 
 ---
 
 ## 💻 Skills & Tools
+
+### Flutter Development 
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
 
 ### Programming Languages
 <p>
@@ -30,14 +37,9 @@ When I’m not coding, I create content on YouTube and write about AI, automatio
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-### Mobile & App Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
 
-### Web Development
+
+### Frontend Development (Web)
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -45,8 +47,10 @@ When I’m not coding, I create content on YouTube and write about AI, automatio
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
+
 ### Databases & Other Tools
 <p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
